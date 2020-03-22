@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinStart1</string>
+    <string name="header_title">StartNG Details</string>
+    <string name="details">
+        Name: Ojuri Oluwafemi
+        \nE-mail: ojurifemi132@gmail.com
+        \nSlack Username: dev-juri
+        \nTrack: Mobile
+        \nCourses: Kotlin
+    </string>
+</resources>
